@@ -262,7 +262,17 @@ div.absolute {
   border: 3px solid #73AD21;
 }
 
-sticky
+sticky <!-- hw -->
+
+div.sticky
+{
+	position: sticky;
+	top: 0;
+	width: 20%;
+	height: 30%;
+	border: 2px solid green;
+	background-color: lightgreen;
+}
 
 
 
